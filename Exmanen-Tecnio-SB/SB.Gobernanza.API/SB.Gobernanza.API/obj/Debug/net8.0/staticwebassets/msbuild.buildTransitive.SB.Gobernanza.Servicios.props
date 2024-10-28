@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SB.Gobernanza.Servicios.props" />
+</Project>

@@ -1,0 +1,32 @@
+/* src/components/Content.css */
+.content {
+    background-color: rgb(237, 240, 247);
+    padding: 30px;
+    flex: 1;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+  }
+
+  .detalle{
+    background-color: white;
+    height: auto;
+    border-radius: 30px;
+    padding: 30px;
+  }
+
+  .borr{
+    font-size: 22px;
+    color: rgb(255, 9, 9);
+    padding-left: 10px;
+}
+.borr:hover{
+    color: rgb(179, 0, 0);
+}
+
+.edit{
+    font-size: 24px;
+    color: rgb(0, 111, 202);
+}
+.edit:hover{
+    color: rgb(15, 85, 143);
+}

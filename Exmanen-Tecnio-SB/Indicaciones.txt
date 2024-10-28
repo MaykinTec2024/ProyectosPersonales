@@ -1,0 +1,4 @@
+1. ejecutar el backend - visual studio,
+2. abrir el archivo react en visual studio code
+3. ejecutar en la temrinal "npm run dev" para levantar el sistema
+4. en caso de error, instalar o actulizar node.js

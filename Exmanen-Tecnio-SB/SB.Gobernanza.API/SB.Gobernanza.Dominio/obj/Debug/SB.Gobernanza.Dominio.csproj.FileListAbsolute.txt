@@ -1,0 +1,6 @@
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\bin\Debug\SB.Gobernanza.Dominio.dll
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\bin\Debug\SB.Gobernanza.Dominio.pdb
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\obj\Debug\SB.Gobernanza.Dominio.csproj.AssemblyReference.cache
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\obj\Debug\SB.Gobernanza.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\obj\Debug\SB.Gobernanza.Dominio.dll
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Dominio\obj\Debug\SB.Gobernanza.Dominio.pdb

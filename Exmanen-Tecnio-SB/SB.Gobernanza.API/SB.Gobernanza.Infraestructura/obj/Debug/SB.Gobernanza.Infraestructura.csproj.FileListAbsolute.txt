@@ -1,0 +1,9 @@
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\bin\Debug\SB.Gobernanza.Infraestructura.dll
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\bin\Debug\SB.Gobernanza.Infraestructura.pdb
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\bin\Debug\SB.Gobernanza.Dominio.dll
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\bin\Debug\SB.Gobernanza.Dominio.pdb
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\obj\Debug\SB.Gobernanza.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\obj\Debug\SB.Gobernanza.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\obj\Debug\SB.Gober.C8F73048.Up2Date
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\obj\Debug\SB.Gobernanza.Infraestructura.dll
+C:\Users\SMITH\Desktop\SB.Gobernanza.API\SB.Gobernanza.Infraestructura\obj\Debug\SB.Gobernanza.Infraestructura.pdb

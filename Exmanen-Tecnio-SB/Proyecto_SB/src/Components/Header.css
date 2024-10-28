@@ -1,0 +1,23 @@
+/* src/components/Header.css */
+.header {
+    padding: 20px;
+    background-color: rgb(13, 47, 72);
+    color: white;
+    padding-left: 3%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+.cerrar{
+  align-items: end;
+}
+
+.cerr{
+  margin-top: 5px;
+  background-color: rgb(101, 124, 141);
+  color: white;
+}
+
+.cerr:hover{
+  background-color: rgb(64, 82, 95);
+}

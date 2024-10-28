@@ -1,0 +1,2 @@
+﻿1,user,user,empleado
+2,admin,admin,admin

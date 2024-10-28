@@ -1,0 +1,42 @@
+.cont_login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    place-content: center;
+    background-color: rgb(27, 82, 121);
+}
+.cont_login_children{
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 350px;
+    height: 460px;
+    box-shadow: 0px 0px 15px 5px rgba(78, 78, 78, 0.7);
+    
+}
+
+.Iniciar{
+    background-color: rgb(69, 105, 131);
+}
+
+.Iniciar:hover{
+    background-color: rgb(48, 78, 99);
+}
+
+.cont2{
+    background-color: rgb(165, 177, 185);
+    place-content: center;
+    text-align: center;
+    width: 350px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    img{
+        width: 300px;
+        padding: 20px;
+    }  
+}
+.cont{
+    display: flex;
+}

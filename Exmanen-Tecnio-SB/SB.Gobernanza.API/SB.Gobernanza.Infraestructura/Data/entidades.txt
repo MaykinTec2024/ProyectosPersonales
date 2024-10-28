@@ -1,0 +1,20 @@
+1, Superintendencia de Bancos, Gubernamental, Av. 27 de Febrero #15, Santo Domingo, 809-555-1234, contacto@sb.gob.do
+2, Ministerio de Salud Pública, Gubernamental, Av. José L. Pérez #20, Santo Domingo, 809-555-5678, info@ms.gov.do
+3, Dirección General de Impuestos Internos, Gubernamental, Av. Luperón #45, Santo Domingo, 809-555-9101, dgi@dgi.gov.do
+4, Ministerio de Educación, Gubernamental, Av. 30 de Mayo #35, Santo Domingo, 809-555-1122, contacto@minedu.gov.do
+5, Oficina Nacional de Meteorología, Gubernamental, Av. La Paz #27, Santo Domingo, 809-555-3344, info@onamet.gov.do
+6, Ministerio de Trabajo, Gubernamental, Av. Jiménez Moya #12, Santo Domingo, 809-555-7788, info@mt.gob.do
+7, Superintendencia de Electricidad, Gubernamental, Av. Abraham Lincoln #10, Santo Domingo, 809-555-4433, contacto@se.gob.do
+8, Ministerio de Turismo, Gubernamental, Calle Presidente González #8, Santo Domingo, 809-555-5567, info@mitur.gob.do
+9, Dirección General de Pasaportes, Gubernamental, Av. John F. Kennedy #1, Santo Domingo, 809-555-3345, pasaportes@dg.gov.do
+10, Ministerio de Agricultura, Gubernamental, Av. George Washington #16, Santo Domingo, 809-555-8899, info@agricultura.gob.do
+11, Ministerio de Medio Ambiente, Gubernamental, Calle Cayetano Germosén #5, Santo Domingo, 809-555-2277, contacto@ambiente.gob.do
+12, Ministerio de Industria, Comercio y Mipymes, Gubernamental, Av. Winston Churchill #34, Santo Domingo, 809-555-6611, info@micm.gob.do
+13, Instituto Nacional de Aguas Potables y Alcantarillados, Gubernamental, Av. Máximo Gómez #17, Santo Domingo, 809-555-9234, info@inapa.gov.do
+14, Banco Central de la República Dominicana, Gubernamental, Av. Pedro Henríquez Ureña #6, Santo Domingo, 809-555-7777, info@bancentral.gov.do
+15, Instituto Nacional de Recursos Hidráulicos, Gubernamental, Calle República de Colombia #3, Santo Domingo, 809-555-4444, info@indrhi.gob.do
+16, Ministerio de Relaciones Exteriores, Gubernamental, Av. Independencia #1, Santo Domingo, 809-555-5555, contacto@mirex.gob.do
+17, Ministerio de Defensa, Gubernamental, Calle 27 de Febrero #11, Santo Domingo, 809-555-9933, info@defensa.gob.do
+18, Procuraduría General de la República, Gubernamental, Calle José Reyes #13, Santo Domingo, 809-555-0066, contacto@pgr.gob.do
+19, Ministerio de Deportes, Gubernamental, Av. 27 de Febrero #22, Santo Domingo, 809-555-0099, info@mide.gob.do
+20, Ministerio de la Mujer, Gubernamental, Calle Cervantes #9, Santo Domingo, 809-555-2211, contacto@mmujer.gob.do

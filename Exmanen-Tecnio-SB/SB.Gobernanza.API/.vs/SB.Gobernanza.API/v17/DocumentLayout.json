@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.infraestructura\\data\\entidades.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|solutionrelative:sb.gobernanza.infraestructura\\data\\entidades.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A62AAD-CF15-499B-8D3D-73C093F60FBA}|SB.Gobernanza.Dominio\\SB.Gobernanza.Dominio.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.dominio\\models\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A62AAD-CF15-499B-8D3D-73C093F60FBA}|SB.Gobernanza.Dominio\\SB.Gobernanza.Dominio.csproj|solutionrelative:sb.gobernanza.dominio\\models\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.infraestructura\\data\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|solutionrelative:sb.gobernanza.infraestructura\\data\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.infraestructura\\data\\filereaderusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D05B05-7526-418C-BBE0-D75AF2407CC9}|SB.Gobernanza.Infraestructura\\SB.Gobernanza.Infraestructura.csproj|solutionrelative:sb.gobernanza.infraestructura\\data\\filereaderusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E3E7BE-2FCA-4777-B859-B6F8AEB71B8B}|Aplicacion\\SB.Gobernanza.Aplicacion.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\aplicacion\\services\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E3E7BE-2FCA-4777-B859-B6F8AEB71B8B}|Aplicacion\\SB.Gobernanza.Aplicacion.csproj|solutionrelative:aplicacion\\services\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|solutionrelative:sb.gobernanza.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|solutionrelative:sb.gobernanza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|c:\\users\\smith\\desktop\\sb.gobernanza.api\\sb.gobernanza.api\\controllers\\entidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CD7882-CD9A-4FBF-BC42-DC98B04F0AB4}|SB.Gobernanza.API\\SB.Gobernanza.Servicios.csproj|solutionrelative:sb.gobernanza.api\\controllers\\entidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usuarios.txt",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\usuarios.txt",
+              "RelativeDocumentMoniker": "SB.Gobernanza.Infraestructura\\Data\\usuarios.txt",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\usuarios.txt",
+              "RelativeToolTip": "SB.Gobernanza.Infraestructura\\Data\\usuarios.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T13:10:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileReaderUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\FileReaderUsuario.cs",
+              "RelativeDocumentMoniker": "SB.Gobernanza.Infraestructura\\Data\\FileReaderUsuario.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\FileReaderUsuario.cs",
+              "RelativeToolTip": "SB.Gobernanza.Infraestructura\\Data\\FileReaderUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:10:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "entidades.txt",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\entidades.txt",
+              "RelativeDocumentMoniker": "SB.Gobernanza.Infraestructura\\Data\\entidades.txt",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Infraestructura\\Data\\entidades.txt",
+              "RelativeToolTip": "SB.Gobernanza.Infraestructura\\Data\\entidades.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T13:10:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityService.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\Aplicacion\\Services\\EntityService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Services\\EntityService.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\Aplicacion\\Services\\EntityService.cs",
+              "RelativeToolTip": "Aplicacion\\Services\\EntityService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:56:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Dominio\\Models\\Entidad.cs",
+              "RelativeDocumentMoniker": "SB.Gobernanza.Dominio\\Models\\Entidad.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.Dominio\\Models\\Entidad.cs",
+              "RelativeToolTip": "SB.Gobernanza.Dominio\\Models\\Entidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:01:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SB.Gobernanza.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SB.Gobernanza.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswD4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:31:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Program.cs",
+              "RelativeDocumentMoniker": "SB.Gobernanza.API\\Program.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Program.cs",
+              "RelativeToolTip": "SB.Gobernanza.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:28:39.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Controllers\\EntidadesController.cs",
+              "RelativeDocumentMoniker": "SB.Gobernanza.API\\Controllers\\EntidadesController.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\SB.Gobernanza.API\\SB.Gobernanza.API\\Controllers\\EntidadesController.cs",
+              "RelativeToolTip": "SB.Gobernanza.API\\Controllers\\EntidadesController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:14:33.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
